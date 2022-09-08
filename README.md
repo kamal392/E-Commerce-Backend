@@ -4,6 +4,8 @@ The Mentioned app will get connected to MySQL database using sequelize by provid
 Once will have the successful DB connection , database will get created and seeded with test data after running schema and seed command.
 Once server will get started then the user can check the Api routes (GET, POST , UPDATE and DELETE.) in insomanina for categories,products and tags.
 
+NOTE: Please refer Walkthrough_video directory to watch working app .
+
 Please follow the steps in order to run the application:-
 
 1.	npm init
